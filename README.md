@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @KrisMelikova \n
-I am backend developer with background in SaaS company.
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/kristina-melikova-498a761b6/" target="_blank">Kris</a> 
