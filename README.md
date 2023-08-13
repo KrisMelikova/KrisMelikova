@@ -7,3 +7,4 @@
   <li>🙂 friendly and good team player</li>
 </ul>
 
+My tech stack: Python (including multiprocessing, multithreading, asyncio), Django/DRF, Unittest/Pytest, FastAPI, Playwright, PostgreSQL, ClickHouse, Docker
