@@ -4,4 +4,11 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kris_melikova)
 [![Linkgedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristina-melikova/)
 
-My tech stack: Python (including multiprocessing, multithreading, asyncio), Django/DRF, FastAPI, Flask, RabbitMQ, Redis, Unittest, Pytest, PostgreSQL, Docker
+My tech stack: 
+- Python (including multiprocessing, multithreading, asyncio) + frameworks: Django/DRF, FastAPI, Flask
+- Go
+- RabbitMQ
+- Redis
+- Unittest, Pytest
+- PostgreSQL, MySQL
+- Docker
