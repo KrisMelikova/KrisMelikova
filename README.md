@@ -14,5 +14,3 @@ My tech stack:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-<img src="[https://image-url.type](https://a11ybadges.com/badge?logo=pytest)" width="200" height="200"/>
-![Pytest](https://a11ybadges.com/badge?logo=pytest)
